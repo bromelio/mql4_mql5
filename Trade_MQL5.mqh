@@ -1,11 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                                        Trade.mqh |
-//|                                                     Andrew Young |
-//|                                 http://www.expertadvisorbook.com |
 //+------------------------------------------------------------------+
 
-#property copyright "Andrew Young"
-#property link      "http://www.expertadvisorbook.com"
+#property copyright ""
+#property link      ""
 
 /*
  Creative Commons Attribution-NonCommercial 3.0 Unported
