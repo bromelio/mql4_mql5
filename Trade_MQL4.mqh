@@ -7,17 +7,6 @@
 #property description "Trading classes and functions"
 #property strict
 
-
-/*
- Creative Commons Attribution-NonCommercial 3.0 Unported
- http://creativecommons.org/licenses/by-nc/3.0/
-
- You may use this file in your own personal projects. You may 
- modify it if necessary. You may even share it, provided the 
- copyright above is present. No commercial use is permitted! 
-*/
-
-
 #include <stdlib.mqh>
 
 #define MAX_RETRIES 3		// Max retries on error
