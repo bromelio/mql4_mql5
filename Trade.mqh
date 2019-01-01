@@ -1,11 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                                        Trade.mqh |
-//|                                                  Andrew R. Young |
-//|                                 http://www.expertadvisorbook.com |
 //+------------------------------------------------------------------+
 
-#property copyright   "Andrew R. Young"
-#property link        "http://www.expertadvisorbook.com"
+#property copyright   ""
+#property link        ""
 #property description "Trading classes and functions"
 #property strict
 
