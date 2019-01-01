@@ -5,16 +5,6 @@
 #property copyright ""
 #property link      ""
 
-/*
- Creative Commons Attribution-NonCommercial 3.0 Unported
- http://creativecommons.org/licenses/by-nc/3.0/
-
- You may use this file in your own personal projects. You may 
- modify it if necessary. You may even share it, provided the 
- copyright above is present. No commercial use is permitted. 
-*/
-
-
 #define MAX_RETRIES 5		// Max retries on error
 #define RETRY_DELAY 3000	// Retry delay in ms
 
